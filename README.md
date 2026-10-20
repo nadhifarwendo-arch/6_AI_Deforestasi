@@ -1,4 +1,4 @@
-# Studi Kasus Transkrip 6 — AI untuk Pemantauan Perubahan Hutan
+# Studi Kasus 6 — AI untuk Pemantauan Perubahan Hutan
 
 ## Ringkasan
 Repositori ini dibuat berdasarkan materi kuliah praktisi oleh Dr. Bart Slaughter tentang penggunaan **remote sensing, data satelit multitemporal, dan kecerdasan buatan (AI)** untuk mengidentifikasi perubahan hutan tropis.
@@ -58,13 +58,3 @@ Skrip membagi data menjadi data latih dan data uji, melatih model Random Forest,
 - Tambahkan data referensi/ground truth dan validasi lapangan.
 - Laporkan metrik per kelas, ketidakpastian, dan potensi bias.
 - Jangan menyimpulkan penyebab perubahan hutan dari klasifikasi citra saja.
-
-## Mengunggah ke GitHub
-1. Buat repositori baru di https://github.com/new.
-2. Ekstrak ZIP ini.
-3. Unggah **isi folder proyek** (bukan ZIP-nya saja) melalui **Add file → Upload files**.
-4. Isi pesan commit, misalnya `Add study case AI forest monitoring`.
-5. Klik **Commit changes**.
-
-## Sumber materi
-Transkrip yang disertakan merupakan sumber materi diskusi. Implementasi kode dan dataset demo dibuat untuk tujuan pembelajaran dan tidak diklaim sebagai kode atau dataset dari pemateri.
