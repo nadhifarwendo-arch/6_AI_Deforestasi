@@ -10,7 +10,6 @@ Materi membahas pemanfaatan data satelit seperti Sentinel-1 (radar) dan Sentinel
 
 **Solusi demo:** melatih model Random Forest untuk mengklasifikasikan baris data sintetis menjadi `perlu_diperiksa` atau `normal` berdasarkan fitur contoh seperti perubahan indeks vegetasi, perubahan tutupan, kelembapan, dan indikasi gangguan.
 
-> **Penting:** dataset pada folder `data/` adalah data sintetis untuk latihan pemrograman. Ini bukan citra satelit asli, bukan hasil penelitian Dr. Slaughter, dan bukan model operasional untuk mengambil keputusan lingkungan. Jangan gunakan hasilnya sebagai bukti deforestasi nyata.
 
 ## Struktur proyek
 ```text
