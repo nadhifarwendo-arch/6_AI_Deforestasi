@@ -1,0 +1,1027 @@
+
+Telusuri di video
+0.25
+[music]
+0.36
+[music]
+0.42
+[music]
+0.47
+Mhm.
+0.53
+[music] Mhm.
+0.58
+[music]
+1.06
+[music]
+1.14
+[music]
+1.24
+[music]
+1.38
+[music]
+1.50
+[music]
+1.59
+[music] Hello.
+2.10
+Hello.
+2.21
+[music] [music]
+2.30
+[music]
+2.37
+[music]
+2.43
+[music]
+2.49
+[music]
+2.59
+[music]
+3.05
+[music]
+3.17
+[music]
+3.29
+[music]
+3.41
+[music]
+3.58
+[music]
+4.09
+[music] Test test test.
+4.17
+[music]
+4.29
+[music]
+4.39
+Nice. Test.
+4.44
+Hello.
+4.55
+Hello.
+5.01
+[music] Devil. [music]
+5.13
+[music]
+5.23
+[music]
+5.30
+[music]
+5.45
+[music]
+5.57
+[music]
+6.04
+[music]
+6.15
+[music]
+6.40
+Hey.
+6.46
+Hey. Hey. [music]
+6.57
+[music]
+7.08
+Hey. [music]
+7.39
+[music]
+7.50
+[music]
+7.57
+[music]
+8.04
+[music]
+8.19
+[music]
+8.31
+[music]
+8.44
+[music]
+8.51
+[music] Love it.
+18.48
+recording in progress.
+20.03
+Hello. Good afternoon. Hello, Dr. Slaughter.
+20.09
+Hello. How are you doing today? I'm good. How are you? Sorry for the delay.
+20.14
+It's okay. I'm great. It's a pleasure have to have you with us today. All right. Let's begin.
+20.22
+Yeah, sure. Uh shall I share my screen? Is that the best way to uh uh okay uh good afternoon distinguished
+20.30
+guests, respected lecturers and all participants. I hope everyone is doing well. Welcome to the informatics
+20.36
+practitioner lecture series connecting academic knowledge with industry and global technology. My name is Priscilia
+20.42
+Edward and I will be your moderator for today's session. Without further ado, let's get started. To begin, I would
+20.48
+like to invite the head of organizing committee Dr. Ariatia to deliver the opening remarks. Dr. Ari,
+20.56
+the floor is yours. Okay. Uh thank you. Uh good morning
+21.03
+Bart. Thank you so much for uh your time to attend this uh speaker today. So I
+21.10
+would like to welcome uh Bart Slaughter is a researcher from the Waginingan
+21.16
+University and research. Uh and [clears throat] here uh already uh all of the attendant
+21.23
+from the uh study program of informatics
+21.29
+and uh we are thrilled to see such a great turnout from today uh seminar
+21.35
+where technology meets critical environmental action and uh I hope that
+21.42
+all of the participant from this zoom can get a lots of information and
+21.47
+knowledge. shared by Bart. Thank you so much Bart for today. Uh okay, thank you
+21.52
+Cecil. Uh thank you Dr. Ari for your remarks. Uh before we proceeding to the main
+21.58
+session, we would like to have a brief documentation session. May I invite Dr. Barl and the organizing committee to
+22.05
+prepare for a group photograph. Uh if you're ready, I will take the screenshot.
+22.14
+Uh 3 2 1 Next slide. Okay. 3 2 1
+22.23
+Next. 3 2 1. The fourth slide. 3 2 1.
+22.31
+Okay. 3 2 1.
+22.38
+Okay. Uh thank you everyone for the document documentation session. Uh it is
+22.46
+my pleasure to introduce our guest speaker Dr. Bart Slaughter a postdoctoral researcher in remote
+22.52
+sensing at Vahan University and research in the Netherlands. Uh Dr. Slatter
+22.59
+completed his PhD in remote sensing at Vahhan University and research in 2026
+23.05
+graduating kumloud. His doctoral research focused on tropical forest
+23.10
+change using multi-ensor satellite data and artificial intelligence. His academic and professional experience
+23.15
+spans remote sensing geospatial
+23.23
+application technology and two environmental mode.
+23.28
+We have him with us today and look for a quick reminder to all participants. Please keep your microphone mute during
+23.35
+the presentation. so everyone can listen comfortably. Uh we will have a Q&A session after the presentation. Uh thank
+23.42
+you for your cooperation. Without further ado, please join me in welcoming Dr. Bart Slaughter. Dr. Slaughter, the
+23.49
+floor is yours. Yeah, thank you very much. Um I will
+23.55
+quickly share my screen.
+24.07
+Uh yeah, I assume you can see these slides,
+24.12
+right? Okay, great. Yeah, if something goes wrong with the presentation or my
+24.18
+connection, then please uh please just interrupt. Um yeah, so my name is Ber. Thanks for
+24.23
+the introduction uh you just gave. Um so I'm working as a researcher at Vahing University and I will tell a little bit
+24.30
+about my research uh today on uh mainly on the topic of deforestation alerts uh
+24.37
+that we produce with satellite imagery and how we attribute also direct drivers uh to them.
+24.43
+So first of all, this research is is uh tailored at studying and understanding
+24.49
+change in tropical forests and uh I think many of us know the importance of tropical forests uh in many domains. U
+24.58
+for example they store enormous amount of carbon uh they regulate water cycles.
+25.03
+So they host university and tropical forest also support livelihoods of uh of
+25.09
+many people depending on them. But we are currently losing tropical
+25.14
+forests uh very fast uh due to uh many different reasons. Uh a lot is related
+25.20
+to uh land use change but also for resource extraction like um timber
+25.26
+logging or uh mining activities. And um since uh a few decades we
+25.36
+uh to see what is going on in forests through satellite imagery across the entire world and uh since the last few
+25.44
+years we can do this in uh with a lot of detail with the um emergence of uh
+25.51
+sentinel satellites from the European Space Agency. Um so first I want to show you here something about what current
+25.57
+satellite images can actually show us when we uh when we have a for and this
+26.04
+is in uh central. So what you see here on the left on [clears throat] the left side is a typical example of an optical
+26.11
+satellite image. It is very much like how we see a forest with our own eyes.
+26.16
+Um so color from uh from trees, from forest, from water, but also from clouds
+26.23
+is is reflected to a sensor that measures this. Uh it just it's not just measure measuring normal color, but also
+26.29
+infrared reflectance. So it can see a lot of characteristics about uh vegetation.
+26.36
+But in many cases, what you can also see a little bit on this image is that there is a lot of cloud cover. uh and when
+26.42
+there are clouds these images they are not useful to uh to get information on what is happening what is changing in
+26.48
+tropical forests. So for that reason we very often also turn to radar satellite
+26.54
+images which is something you see on the right. This is an image taken uh around the same time but in this case we can
+27.00
+see that there are no clouds in this image. Uh it's a bit harder to interpret
+27.05
+but uh what this sensor actually does on the Sentinel 1 satellite uh it it emits
+27.12
+a radar pulse and it senses back scatter from the forest that is scattered back
+27.17
+towards the sensor and in this way it constructs an image uh from the earth's surface. So these two sources of images
+27.25
+uh is something that uh we use a lot in our research. Um the optical images in
+27.31
+summary they give us a lot of information about vegetation health and vegetation change but uh they are often
+27.37
+uh obstructed by cloud cover especially over the tropics. And uh on the other hand we have radar
+27.43
+images that are a bit more difficult to interpret but they give us consistent information
+27.49
+uh on the forest and what is changing there. So with these types of images uh in the
+27.56
+last uh years we have seen the emergence of um what we call uh deforestation
+28.03
+alerts. So essentially what's happening here is radar and optical satellite images are
+28.09
+used to uh to check where forest disturbance is happening and they do
+28.15
+that roughly on a weekly basis and in pixel scales of 10 to 30 m. So every
+28.21
+week uh when satellites passes o pass over again a specific place uh they
+28.26
+check where in the forest things have changed where a forest disturbance is happening and this is then mapped and
+28.32
+constantly updated in a monitoring system and uh in this way there are now
+28.37
+several uh deforestation alerting systems that give us very fast information on where uh things are
+28.45
+changing, where is uh disturbance happening, where might deforestation actually occur.
+28.50
+And this information is very useful for example to really increase the transparency in what is happening across
+28.56
+the tropics in uh in forests. Uh so this also helps law enforcement for example
+29.01
+when something illegal happens. Uh but it also helps us to much better understand uh ecological impacts and
+29.07
+climate impacts of uh tropical forest changes.
+29.12
+So here's a somewhat bigger overview of what such a system looks like. Here we
+29.18
+see an example from the rod alerts which is completely based on on radar images from Sentinel 1 uh here uh with an
+29.26
+example from central Africa where we see that it detects uh some uh mining
+29.31
+activity in the Republic of Congo. This is a place where a forest is cleared and then gold mines are uh established.
+29.41
+So when we zoom into some specific examples of uh yeah deforestation alerts
+29.48
+places where where tree cover is lost basically we can see that this can be caused by many different causes. So that
+29.54
+is a limitation of these alerts that they they do not really show immediately what is the cause of uh forest change. A
+30.02
+lot of um changes are related to land use change for agriculture with examples you can see here on the left. Um but
+30.09
+also a lot is related to resource extraction like mining uh but also selective logging for which a lot of
+30.14
+logging roads are developed into the forest. Um further on the right side here we see also uh wildfires can cause
+30.21
+a lot of um a lot of disturbance in forest that cause these deforestation alerts. But there are also natural
+30.27
+disturbances like flooding along rivers or or wind throws, big storms that can
+30.33
+cause trees to be uh destroyed and uh all these different causes they they
+30.38
+bring us uh deforestation alerts. So this is the limitation because we would like to know uh more precisely what is
+30.45
+actually happening. So um that brings me a little bit more to the to the core of this presentation.
+30.53
+Um so what has been done in uh in my research in the last years is we've
+30.59
+tried to use artificial intelligence to um yeah beyond just detecting uh these
+31.06
+forest disturbances actually also make a classification of what was the direct driver of a uh disturbance. So in that
+31.13
+way uh we can say much more precise uh what was the cause of uh a detected
+31.21
+alert. So uh I've just shown you these uh sentinel satellite images. So that is
+31.27
+actually the input that goes into uh a convolutional neural network. This is a
+31.32
+model that can learn from a lot of training data that we had to label uh to automatically interpret um from images
+31.41
+uh what is going on there. So with a lot of examples from uh yeah from the
+31.47
+tropics that we labeled uh for example that relate to agriculture or that relate to mining or that relate to
+31.54
+logging or maybe something natural. uh this model can then automatically learn
+31.59
+uh what these examples look like in the imagery and automatically make classifications
+32.04
+um of the different alerts that we detect.
+32.10
+Uh here's how that works a little bit more in detail. This is maybe a bit uh a bit too detailed to to explain exactly
+32.16
+right now, but essentially every month we look at new satellite images that come in uh for the tropics and uh we
+32.23
+prepare an image stack basically and uh the deep learning model. The convolutional neural network then
+32.29
+interprets this stack of images um to see for each newly detected uh
+32.35
+deforestation alert um to make a classification of what driver it uh
+32.41
+relates to. And this is a little bit more um it yeah
+32.49
+under the hood what that looks like. So um what this model basically sees is u
+32.55
+from immediately after a detected deforestation alert
+33.00
+uh it it it sources the images from Sentinel 1 and Sentinel 2. So it makes a radar image and an optical image and it
+33.07
+then interprets and classifies uh these images. So what
+33.13
+you see here are a few output examples from the model uh where a specific event has been targeted and then also
+33.20
+classified. So what you see on the top is the output of the classification. Here it correctly classifies that this
+33.26
+specific alert is related to small holder agriculture. Here it can see that this newly detected alert is related to
+33.33
+uh a new road that is uh built there. Uh here we can see that uh specific trees
+33.39
+are being logged in a selective logging uh activity. And here we can see that a new piece of uh gold mining is uh is
+33.46
+established and the model actually interprets these images. It looks uh not just for example
+33.54
+at uh alerts sizes or their shapes. It also looks into the context. So what
+34.00
+what can we actually see around this alerts? It's uh trained to find all these kind of clues that can make this
+34.07
+uh this an automated process for uh yeah uh for image classification basically.
+34.16
+And when we put it on the map uh this is something uh where we've tested it a little bit. Uh we can see here uh that
+34.24
+the different alerts that are detected are in uh in some cases correctly uh
+34.30
+appointed to a specific driver. For example, in this case a limited set of classes related to smaller agriculture,
+34.36
+road development, selective logging, mining and we also have a class that relates to other disturbances or also
+34.43
+unconfident uh classifications because the model is not always accurate or confident. It can also output uh an
+34.50
+unconfident label for a specific event. And this uh I hope it's it's showing
+34.58
+correctly, but here we show an animation uh month by month what the outputs of
+35.04
+these uh these deforestation alerts then look like when they also receive this classification of direct drivers. So we
+35.12
+see every month that new deforestation alerts pop up in places where trees are
+35.17
+being lost or cut or where land change occurs. And um then we can see that these uh
+35.24
+these yeah the the the driver classifications actually give us a lot more information than just the plane
+35.30
+detection of tree cover loss. So on the left side we see a lot of agricultural activity in Brazil, a lot of larger
+35.37
+agriculture clearings, but we also see around the river that some tree cover loss relates to flooding actually and we
+35.43
+also see on the left side that there is also a big storm that has caused some uh some damage to the forest. On the right
+35.50
+side we see an example from Borneo where there's a lot of where a big mix of activities related to agriculture but
+35.55
+also selective logging and uh and mining in this place. And this information can
+36.01
+be far more useful for example to have a better transparency and also for law enforcement uh to know when something uh
+36.09
+illegal happens and something is human induced or natural or relates more to deforestation or degradation for
+36.16
+example. uh what we also do for the agriculture
+36.22
+related um events that we detect we make a further disagregation which is uh
+36.28
+based on the size um and also based on whether uh fire was also associated with
+36.34
+the clearing. So um events that are small we classify these as uh small scale agriculture and events that are
+36.41
+larger we classify these as large scale agriculture. This can help to disagregate between maybe small holder activities versus more industrial uh
+36.48
+agriculture activities. And um we also check uh from different satellite
+36.54
+sensors uh whether uh that are more suitable for fire detections whether uh
+37.01
+fire was also detected uh in the in coincidence with the detection of the
+37.07
+deforestation alert. It helps us to know whether fire was used in the clearing of the forest or not. Here
+37.15
+are a few more examples from different regions. Um to see a little bit more up close uh how
+37.24
+uh how we produce these alerts and the level of detail that we can retain um at 10 m scale. We can see that
+37.32
+small pieces like selective logging can also be detected uh alongside also larger clearings. And what is important
+37.38
+to note here is that this is all based on um on uh yeah on an AI. So it's a
+37.44
+classification based on a deep learning model. And that means that there is also uh sometimes false classifications. So
+37.51
+we've done an accuracy assessment that helped us understand how accurate uh these classifications actually are. And
+37.58
+in many cases we see that uh there are also errors um and mostly this relates
+38.04
+to uh wildfire classifications or natural disturbances like flooding uh that we do not always uh catch so well
+38.12
+in these uh in these classifications. Here's another example from uh from Moso
+38.20
+in Brazil where we can also see a very large landscape with a big mix of disturbances. We see here uh a lot of
+38.27
+deforestation related to agriculture uh at large scale but we also see that roads are being developed to access
+38.34
+forest for selective logging. This is where where timber is being harvested. You see that in blue. We also see some
+38.40
+yellow patches where uh mining mainly gold mining is established and also a lot of brownish uover
+38.48
+losses where uh these are related to to wildfires during the dry season.
+38.57
+And if you're looking into our results uh when when we have run these alerts month by month for 3 years actually uh
+39.04
+to give us a little bit more insights in the patterns across the tropics. Um in
+39.10
+uh yeah tree cover loss drivers uh we see that there's quite some variety. uh for example in South America
+39.17
+we see a lot of related to large scale agriculture and and wildfire but in central Africa we see small holder
+39.23
+agriculture is much more dominant and we also see in countries like uh Gabon and
+39.28
+and Congo that uh selective logging is very common and widespread and uh in uh
+39.34
+Indonesia and Malaysia we see a very different uh mix with a lot of large scale small scale agriculture alongside
+39.42
+uh logging happening on on Borneo and also So uh quite some large scale mining activities
+39.48
+and that um that helps us to really see these differences uh that are uh
+39.55
+different causes actually of of tree cover loss across tropics with also different impacts.
+40.03
+Um here we see that a little bit more in summary. Um we notice also that um in
+40.10
+Brazil and Bolivia that uh fires were very dominant mainly in 2024 and this
+40.16
+was related to uh very extreme uh fires during that year. There were very
+40.21
+extreme droughts and uh this has caused a lot of uh forests to to burn and we do
+40.28
+not expect that these uh these fires will all cause uh deforestation but um
+40.35
+they are more related to forest degradation in forests that are that are burned and that also might uh might
+40.41
+regrow uh later on.
+40.46
+Um here's what I just explained about the accuracy assessment. Um
+40.52
+I have uh explained a little bit about how we have some confusions with wildfires, flooding and also natural
+40.58
+disturbances. We notice that uh wildfires occur quite often alongside rivers for example in flood planes and
+41.06
+this is also where flooding happens. So for the model it's sometimes quite difficult to interpret from satellite images whether something related uh to
+41.13
+wildfires or to flooding. And um what we're what we've done recently with this
+41.19
+uh with this data set is we have retrained the model to specifically target much more examples related to
+41.25
+wildfire and flooding to hopefully improve on those classifications. So the model actually becomes better once we
+41.32
+feed it with more uh training examples. So all kinds of data that we have manually labeled to uh for the model to
+41.39
+learn. Uh so this is something that we are continuously doing to uh to improve classifications of the of the alerts.
+41.51
+And um something that you can also do with this data is to uh because it has
+41.57
+quite a high uh spatial scale, we can see these disturbances happening every
+42.02
+month um at 10 m scale. Um so we can see quite nicely per um yeah tree cover loss
+42.11
+event uh in its specific moment uh what has caused it and this can help us also
+42.17
+to study the co-occurrences of different drivers also the sequences uh how forest
+42.22
+change and also seasonal patterns in um in the different drivers of tree covers.
+42.28
+So um the example on the left uh shows us that um mining had been established a
+42.36
+lot here in 2022. Uh this is apparently gold mining in uh DRC the Democratic
+42.42
+Republic of Congo. And we also see that later on in later years this leads to uh
+42.48
+uh dry season increases in agricultural activity. That's likely because the
+42.53
+mining activity attracts more people uh which need to uh produce food. So this
+42.58
+uh this mining activity might actually indirectly cause uh more tree cover loss in its surrounding due to uh an increase
+43.05
+in agricultural activity later on. What we see on the right side is something uh happening uh in the forest
+43.13
+of Bolivia where we see that uh roads have been established in 2022 and also
+43.19
+selective logging uh of of of timber has occurred also in 2023 and that later on
+43.25
+exactly in that area where selective logging happened um then also a wildfire occurred. So um looking at patterns like
+43.33
+this might give us more insight in uh in how different activities in forest might
+43.39
+cause uh subsequent uh tree cover losses.
+43.48
+And here's a little bit more about seasonality of uh of the different drivers that we studied. uh we see for
+43.55
+example which is uh what you see here actually is that uh once these values
+44.01
+become higher uh there's more seasonality so the the disturbance is
+44.06
+more more concentrated in specific uh moments in the year and when these values are lower uh the the specific
+44.15
+activity is more spread out throughout the year it's more even so uh it's not surprising that for
+44.22
+example wildfire pops up the highest throughout the regions because that is naturally occurring more in the dry
+44.28
+seasons and the same uh occurs for agricultural clearings but it's not true for all um for all disturbances and we
+44.36
+can also see that um seasonalities are much higher in the Amazon forest and the Congo basin forests while in Southeast
+44.43
+Asian forest in Malaysia and Indonesia it's it's much less and this can be because um there's a less distinct uh uh
+44.53
+dry season and rainy season in the Southeast Asian forest compared to Congo basin forests and Amazon forests where
+44.58
+there's more seasonal difference in in rainfall and and droughts.
+45.07
+Um I mentioned a few of these but it's important to note with this kind of research that there's always
+45.12
+limitations. Um for example uh we use deforestation
+45.17
+alerts uh from different systems and they are always based on different sensors uh different satellites and
+45.23
+satellites do not always consistently um cover the same area uh as good as for
+45.30
+example in other areas. So we need to note that sometimes when a satellite fails or when it breaks that we have
+45.36
+less uh detections of uh deforestation. So that is um something we have to note
+45.42
+when we look into these patterns. And also a second point is that we are looking uh very rapidly into uh
+45.51
+uh the the drivers that cause deforestation alerts and this means that
+45.56
+after a month uh we make classifications. It's not always possible to immediately say after a
+46.02
+month what has caused a specific uh disturbance. So for example in some cases we can see that there's a clearing
+46.08
+which might be caused by something that looks like a wildfire but it can also be that a year later uh this area is then
+46.15
+used for agricultural activity. So the actual driver might have been in that case um an agricultural activity but uh
+46.23
+the immediate thing that we saw in that place was was a wildfire.
+46.28
+Um and for example things that start off as smallcale agriculture might also grow
+46.33
+larger later on. then we might uh look at this more like being large scale agriculture and this
+46.39
+is something that we do not update in the data set because we only look at the direct drivers
+46.45
+um and the updating in monthly time steps uh also means that there is some latency in the in the driver
+46.52
+classification. So if you want to use this for example for law enforcement or very rapid interventions in the field
+46.58
+when uh something that is potentially illegal or unsustainable happens uh you
+47.04
+need to have in mind that these uh that this data is updated only once a month.
+47.10
+And what he also showed is some of the classification errors and that is uh
+47.15
+also part of a trade-off uh because we want to do these classifications past with with with recently available
+47.22
+satellite images. Um there's always some trade-off in how accurate uh you can do that. So there is always some uh some
+47.30
+error in these classifications and the maps that we show.
+47.37
+And um this data is produced uh like I mentioned every month. So what we also
+47.42
+do is we release it through uh openly available platforms like uh WR's uh
+47.48
+global uh forest watch. It's now named global nature watch. Uh this is where you can uh view every month the updates
+47.57
+uh in the alerts. So if there are specific areas of interest for people uh for example around national parks or in
+48.03
+protected areas or in areas where uh resource extraction is allowed for example mining concessions or logging
+48.10
+concessions uh this data can be viewed to to uh to use actually as alerts or to
+48.16
+really um have this this better transparency in what is happening in
+48.21
+tropical forest. So in this way um what we're showing is
+48.28
+in summary uh we have satellites that pass uh tropical forests roughly uh
+48.35
+every week and they produce uh deforestation alerts. Um and when we
+48.41
+have these driver classifications that uh that tell us much more about what is causing the alerts. We have very quick
+48.48
+and also actionable information every month that uh that tells us what is actually changing in uh in tropical
+48.55
+forests. And um when this informs of uh
+49.00
+potentially illegal deforestation or unsustainable activities that might lead to degradation, for example, uh this
+49.07
+could enable to have targeted interventions on the ground uh before things spread out or become uh worse for
+49.15
+a forest. And um this information at large scale producing these maps can also help to
+49.22
+support um more informed uh policies uh in um in forest management or um yeah
+49.30
+environmental policies. All right. Um I think this is my last
+49.35
+slide. Yeah. Thank you very much. Um yeah, thanks for listening and I think we have some time for uh for discussion.
+49.42
+So I will I'll give it uh give it back to you. Okay. Thank you very much Dr. Slar uh
+49.49
+for your presentation and for your sharing and for sharing your insight with us. Uh we will now move on to
+49.55
+theization. For those who would like to ask question you may raise your hand using available
+50.02
+feature and turn on your microphone when you invited to speak alternatively you can submit your question through the
+50.09
+chat and I will read it aloud. All right, let's begin. Are there any question from our participant?
+50.15
+Oh, while uh while we give our participant a moment to prepare their
+50.20
+question, I would like to start with my question. Yeah. Uh I have a question on my
+50.28
+experience with your special projects. Uh during my internship at Oregon
+50.33
+Santara, uh they process data for Mabomomas Indonesia.
+50.39
+uh so I become familiar with several with several maps initiative for monitoring land cover dynamic fire and
+50.46
+deforestation. One example is maps alerta which use glad alerts developed
+50.51
+by University of Maryland uh as one of its source. uh they detect the first
+50.58
+station and then verify through an independent audit process uh conducted by the decad team to ensure that the
+51.05
+alerts are supported by infidence and provide more reliable reliable
+51.11
+information for forest loss. Uh separately I've been working on two independent learning projects. And uh I
+51.18
+use Google Earth Engine to produce mongraph classification maps for Bungulu and then I integrate
+51.26
+NASA firms hotspot with MBMS land cover classes to analyze hotspot distribution
+51.33
+across different land cover types. Uh this experience have made me interest in
+51.39
+how AI can improve environmental monitoring. So far my project have mainly focused on gatial analy analysis
+51.47
+and satellite data and I have not yet explored deep learning approaches. In
+51.52
+your opinion, how valuable would deep learning be for projects like mine? uh
+52.00
+how would you determine when the conventional machine learning methods and are suffici sufficient and when deep
+52.08
+learning would be more appropriate for environmental monitoring. Yeah.
+52.14
+Yeah. Yeah. Great question and very interesting project. Um yeah, I think um
+52.21
+it's always uh useful to try conventional machine learning methods or even simpler methods um to see if that
+52.29
+works. Um but I think when when problems become very complex uh for example in in my case when you have to also look at
+52.35
+the context of uh of something that you want to map or when uh time series can
+52.40
+become uh very complex then you might want to might need to use uh deep
+52.46
+learning. Also when uh when a lot of input data is going to be used uh deep
+52.52
+learning might become more uh more accurate. Um it's always difficult of
+52.58
+course with deep learning you need a lot more training data. uh so if you have a lot of label data available it might be
+53.04
+useful to to test it but I think it would be important always in the end to uh to have some kind of benchmark from
+53.11
+more conventional methods and then compare whether deep learning can actually improve the accuracies and
+53.17
+whether it's also worth it to uh do all the the extra whether you use all the
+53.23
+extra processing power because deep learning also uses a lot more uh power and time of course so I think it would
+53.28
+always be good to to make such comparisons and then then see if you can actually get better accuracies with with
+53.33
+a deep learning model compared to conventional methods.
+53.39
+Oh, okay. Thank you, Dr. Slatter. That's really helpful. Uh especially as I'm
+53.46
+still exploring different approaches for my projects. Okay, we have a question from one of our
+53.53
+participant in chat cell official. In your research, you utilize both
+54.01
+Sentinel one and Sentinel 2. How does one determine when you when to use
+54.06
+Sentinel one versus Sentinels 2? Is combining two the best approach? Furthermore, could you provide some
+54.14
+insight into which Sentinel satellite should be used when the research concern
+54.19
+topics such as flooding? Okay, Dr. Slater, may I invite you to
+54.25
+respond? Yeah. Um so what is happening in the convolutional neural network is is a a
+54.32
+simple approach where we stack all the bands from Sentinel one and Sentinel 2. So we have two bands from Sentinel one
+54.38
+and we use four bands from Sentinel 2. So the model actually interprets this as a yeah essentially a a multiband image
+54.46
+and um when the Sentinel 2 data is not there because it is cloud covered it
+54.53
+might learn to look more into the Sentinel 1 data and while Sentinel 2 data is there it might use Sentinel 2
+54.59
+data more. So this is something that the model automatically learns and it is expected once for example a lot of cloud
+55.05
+cover is there that the model starts to learn or or interpret more from from
+55.11
+Sentinel 1 images. So this is not something that is explicitly uh told to the model when to look at Sentinel one
+55.17
+or Sentinel 2 but something that um yeah that is always looked at um in uh yeah
+55.25
+in in in its uh in its complete multiband image. Um so there was another
+55.32
+question about the detection of flooding. Um I think when we look at flooding activity that is where Sentinel
+55.39
+1 might actually be something that uh that helps the model a bit more than Sentinel 2 because um yeah when when
+55.47
+forests flood or when um when trees disappear and there is some water standing there you might really see that
+55.54
+that specific signal in uh in radar images because it is very sensitive to to water bodies and moisture. So that
+56.00
+that might actually be uh quite a a good sensor to to distinguish what happens uh
+56.06
+due to flooding and and whatnot. So I expect when you want to specifically look into flooding, Sentinel one can be
+56.12
+can be quite valuable. Um if the flooding can actually be seen because when there is still a lot of canopy
+56.17
+cover, uh I think it will become more difficult because Sentinel 1 is a sea band sensor with not a lot of not a lot
+56.23
+of penetration through the canopy. So you need to have a relatively open vegetation structure. uh for it to to
+56.31
+see these kind of uh differences in in water levels.
+56.41
+Thank you. Okay, thank you for the thank you for the explanation. We have one more
+56.47
+question from Kesa Makira. Is data set
+56.59
+alone sufficient to still required to validate the results. Okay. Dr. SL, what
+57.05
+are your thoughts on this? Yeah, I'm not sure. I think the connection was not so good. Could you maybe repeat the question uh once more?
+57.13
+Okay. I'm I'm sorry. Uh there's one question from Quesia Makira. Is
+57.19
+satellite data alone sufficient to determine the causes of forest loss or
+57.25
+or is field data still required for to validate the result?
+57.32
+Yeah, I think that's a very good question uh because my uh my presentation shows a lot of satellite uh
+57.38
+enabled uh approaches to make classifications and I think if you really want to understand the drivers of
+57.44
+uh deforestation, it's much more complex than just the classes that I show. So uh
+57.49
+what we have in my research is uh a very strict set of very generic classes that
+57.55
+we actually can uh distinguish in satellite images. So whether something relates to agriculture or mining or
+58.02
+logging is something that we can actually see in satellite images. But the the whole set of causes or drivers
+58.09
+of deforestation is much more varied or much more complex than just that. So we
+58.14
+are just looking at direct drivers which is something that we can immediately observe after a disturbance. But I think
+58.20
+if you truly want to understand u what is causing deforestation or have a much more detailed set of classes you will
+58.27
+probably have to be more uh in the forest in the fields to make observations. I think one example is
+58.33
+important. Um we have one class that is uh small scale agriculture which we map
+58.39
+a lot across the Congo basin but what's happening there in fact is actually there's a mixture in landscape with a
+58.46
+lot of small scale agriculture but there's also artisal logging but there's also charcoal production and this is all
+58.52
+happening in that place and these nuances we cannot uh distinguish with satellite images. So then these these
+58.58
+things can all fall into one specific class that we want to target. But if you really want to truly tackle what is
+59.06
+exactly happening where uh that is not going to be possible with satellite images.
+59.13
+Yeah. Thank you so much uh Dr. SL for your insightful answers. And then we
+59.20
+have one more two more two more question in the chat. It's from Trianaka.
+59.28
+Okay. He said, "Good afternoon, Mr. Bart." Oh, it's very interesting question. Thank you very much for the
+59.34
+insightful presentation today and thank you for sharing your knowledge with us. I'd like to ask a question related to
+59.41
+Indonesian current situation. Are you aware for the forest and
+59.48
+and landfires currently happening in Kalimantan? If so, can G be used to help
+59.54
+address them? And roughly who how recent is the most up to that satellite data
+1.00.01
+available? For example, is it up to that is it update with hours or does it take
+1.00.07
+it days so that we can see latest condition?
+1.00.12
+Yeah. Yeah. Yeah, I mean I've seen these uh these worrying uh fires that are
+1.00.17
+happening right now in uh in Indonesia and um yeah the the the maps that we
+1.00.25
+produce and also monthly update they will they will show these also.
+1.00.30
+Um, but there's also a lot of other sensors uh and systems
+1.00.36
+uh currently operational that are much more targeted at uh distinguishing
+1.00.42
+fires. Uh for example, when they have uh thermal sensors on board, they can much
+1.00.48
+better sense where and when fires are happening. And this data is also updated much more frequently than our monthly
+1.00.55
+updates. So I think when people are interested in this, I would not refer them to our data because we detect uh
+1.01.02
+weekly deforestation alerts. So we pick up some of these fires, but uh then we also have a monthly classification with
+1.01.10
+a wildfire class, but there can also be errors there. So we will probably have them mapped uh to to quite some extent.
+1.01.18
+But I think uh if you're specifically interested in rapidly knowing where fires are happening, there are better
+1.01.25
+sensors that update this uh weekly or daily for example.
+1.01.33
+Yeah, thank you so much uh for your response. And then the last question in
+1.01.39
+the chat box is yeah, last question from Fadira Mana.
+1.01.45
+Good afternoon. May I may I ask what level of accuracy in terms of accuracy,
+1.01.50
+precision or F1 score has this model achieved so far and which drivers of
+1.01.57
+deforestation are the most challenging to detect with precision? Yeah, let me uh very quickly uh go to
+1.02.04
+that slide. So um here's an overview. Um
+1.02.10
+I think that answers this question well. So we have quite good overall accuracies. uh we have done this
+1.02.16
+accuracy assessment separate per region because that gives us better insights in whether the model works for some regions
+1.02.22
+better than others. uh and although we see that overall accuracies are quite high uh we do also note that micro F1
+1.02.29
+scores are a bit lower that is because overall accuracy is um very much uh
+1.02.35
+dominated by the agriculture class because a lot of uh tree cover loss is caused by agriculture and that is a
+1.02.40
+class that we can quite accurately distinguish but it also means that uh the accuracy assessments are are
+1.02.47
+dominated by that class. If we look at the micro F1 score this is balanced per class. So we have uh seven classes that
+1.02.55
+we assess here and each class weighs equally. So even though maybe only 1% of the tree cover loss is due to mining,
+1.03.02
+this class weighs as um serious as all
+1.03.07
+the other classes. So then we can see that we have um yeah a bit more honest
+1.03.13
+uh review of how this model performs. Um we do see uh that the scores for
+1.03.20
+wildfire are relatively low because we miss quite some wildfires they are actually classified as something else.
+1.03.27
+For example natural disturbance or flooding. Uh and uh so for these classes
+1.03.33
+these natural classes we also see that we have quite some yeah both false detections and also missed uh
+1.03.38
+detections. So those are the major classes to to keep in mind uh as uh
+1.03.45
+being challenging to accurately classify and that also have some errors in our in our maps.
+1.03.55
+Uh thank you Dr. Slaughter. We have received a few similar question in the chat from Rahma Hayatra. Thank you Mr.
+1.04.03
+Bart. Building on the previous question regarding the fires in Kalimantan, your
+1.04.08
+AI model can distinguish between natural wildfires and agricultural land
+1.04.15
+clearing. My question is has this driver attribution data actually
+1.04.23
+been used by governments or law enforcement agencies to hold accountable
+1.04.29
+those responsible for illegal land burning on the ground. How can this AI framework better assist in ensuring that
+1.04.37
+environmental laws are strictly enforced? Yeah, I think it's a it's a great
+1.04.43
+question. I know from the deforestation alerts that we have been running uh not just from our university but also for
+1.04.49
+example glut alerts and that they have been used uh that they are used a lot in the field also and we know some examples
+1.04.56
+where they have helped to to stop illegal activities or unsustainable activities. Um this data set that I've
+1.05.02
+just shown with the driver attribution is something that has been only very recently added to these um to these
+1.05.08
+alerts. So I cannot I do not know yet how much that has been used. It's just running for a few months now. Uh but I
+1.05.15
+know from the deforestation alerts that are underlying uh this uh these maps
+1.05.20
+that I show that they are quite frequently used in the field. uh for
+1.05.25
+example to detect uh illegal logging or illegal mining activities or clearings
+1.05.31
+that are not allowed and this is uh usually most uh valuable in these
+1.05.37
+platforms like global nature watch that I showed because there these alerts can also be combined with additional data sets. So for example, boundaries of
+1.05.44
+logging concessions, boundaries of uh protected areas or um uh boundaries of
+1.05.51
+land tenure um and all kinds of different data sets. So that is uh that is those are places
+1.05.58
+where these uh these alerts are most valuable when people can combine them uh with other data sets or maybe data sets
+1.06.05
+that they have themselves. Okay, thank you so much for the response
+1.06.11
+Dr. SL uh we have two more two more question uh one is from our lectures uh
+1.06.19
+Dr. Ari what is the future insight from your research that can build a
+1.06.24
+collaboration with us in informatics and AI model to overcome the limitation.
+1.06.31
+Uh yeah, good question. To overcome the limitation, I think the the most important thing for us is always to have
+1.06.36
+data. So have um good ground truth data from activities uh especially where we
+1.06.43
+cannot visually inspect it so well with uh satellite images that that we can
+1.06.49
+view from our screen. But uh with ground data from different drivers, uh this
+1.06.55
+model can really improve a lot. Yeah.
+1.07.05
+Okay. And then the last question is from Aisha Amelia Zarajita. Uh, how can the
+1.07.12
+government use the result of monthly monitoring to prevent deforestation more
+1.07.17
+effectively? Yeah, I think uh it's that's a very
+1.07.22
+difficult question. something that I I find find hard to answer because um what
+1.07.27
+I think is with this data at least there is a lot more transparency in what happens. Uh I think maybe 10 or 20 years
+1.07.35
+ago this transparency was was quite difficult but with new satellite sensors and all these um yeah deforestation
+1.07.42
+alerting or forest monitoring systems that have emerged it has become much easier to actually know what is
+1.07.49
+happening in tropical forest. So that that transparency is quite important. Um
+1.07.54
+what governments especially at the national level eventually do with this
+1.08.00
+uh is very hard for me to say. I do know at the local level these uh these alerting systems are used uh quite well
+1.08.07
+but um I think when you are talking about more national governance things are a lot more complex and definitely
+1.08.13
+not not my expertise. Uh but I do believe that with with uh increased
+1.08.19
+transparency uh people are at least much better informed of what is going on and things
+1.08.25
+are uh yeah much more wellnown.
+1.08.37
+Uh thank you so much Dr. SL and thank you for all your thoughtful qu
+1.08.44
+thoughtful question and thank you for Dr. Slatter for your insightful answers. Uh unfortunately that's all the time we
+1.08.51
+have for our discussion today. Uh okay ladies and gentlemen we have now
+1.08.56
+reached the end of today's session. On behalf of organizing committee I would
+1.09.01
+like to express our sincere gratitude to Dr. Bart Slaughter for sharing his knowledge and experience with us today.
+1.09.08
+We we would we would al also like to thank Dr. Arifatricia our lectures and
+1.09.13
+our organiz organizing committee and all participants for or for all their time
+1.09.19
+and participation. We hope today we hope today's session has broadened our
+1.09.25
+perspective and encouraged us to connect economic knowledge with real world technological application. Once again
+1.09.32
+thank you Dr. Slutler for being part of today's lecture series. I am Brailia
+1.09.37
+Edward uh your moderator for today. It has been a pleasure accompanying you throughout the session. Have a wonderful
+1.09.45
+afternoon everyone. Thank you. Thanks. Bye. Bye. Thanks.
+1.09.52
+Thank you.
+1.12.42
+By classes
+1.12.57
+particip active
+1.13.02
+moderator.
+1.13.35
+What the are you doing?
+1.13.57
+record.
+
